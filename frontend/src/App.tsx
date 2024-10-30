@@ -95,7 +95,7 @@ function App() {
   return (
     <>
       <div>
-        <h3>Welcome to Task Manager</h3>
+        <h3>Welcome to Task Manager!</h3>
         <h5>{editTaskId !== null ? "Edit Task" : "Add New Task"}</h5>
         <label>Title:</label>
         <input
